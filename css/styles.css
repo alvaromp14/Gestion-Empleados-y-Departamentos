@@ -1,0 +1,63 @@
+/* Estilos generales */
+body{
+    background-color: #b0b0b0;
+    font-family: arial;
+    text-align: center;
+}
+
+/*Estilos MenuGeneral*/
+.dropdown {
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+}
+
+.dropdown label {
+    background-color: #242424;
+    color: #ffffff;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 30px;
+    font-weight: bold;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #3d3d3d;
+    color: #ffffff;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content a {
+    color: #ffffff;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #808080;
+}
+
+/*Estilo boton Volver al Inicio*/
+.volver {
+    background-color: #242424;
+    color: #ffffff;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/*Estilos formularios*/
+
+
+/**/

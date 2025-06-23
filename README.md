@@ -27,7 +27,7 @@ Esta app permite:
 ## 🛠️ Tecnologías
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: phpMyAdmin
+- **Backend**: PHP
 - **Base de datos**: MySQL
 
 ---
